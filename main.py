@@ -1,11 +1,5 @@
 #!/bin/python
 
-"""
-Demo the trick flying for the python interface
-
-Author: Amy McGovern
-"""
-
 from pyparrot.Minidrone import Mambo
 from DemoGUI import *
 
